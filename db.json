@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "6549",
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "age": "23",
+      "username": "vishalmeharban"
+    },
+    {
+      "id": "d5ce",
+      "username": "dannyupdated",
+      "email": "dannyupdates@gmail.com",
+      "age": "32"
+    },
+    {
+      "id": "6f2e",
+      "username": "danny11111111111",
+      "email": "brock11111111@gmail.com",
+      "age": "44111"
+    },
+    {
+      "id": "724e",
+      "username": "shark",
+      "email": "shark123@gmail.com",
+      "age": "12"
+    },
+    {
+      "id": "eef3",
+      "username": "user11",
+      "email": "user@gmail.com",
+      "age": "45"
+    }
+  ]
+}
