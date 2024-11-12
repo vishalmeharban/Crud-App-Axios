@@ -57,7 +57,7 @@ const Home = () => {
           <tbody>
             {data.map((d, i) => (
               <tr key={i}>
-                <td>{i}</td>
+                <td>{i + 1}</td>
                 <td>{d.username}</td>
                 <td>{d.email}</td>
                 <td>{d.age}</td>
