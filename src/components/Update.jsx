@@ -5,6 +5,7 @@ import { Link, useNavigate, useParams } from "react-router-dom";
 const Update = () => {
   // const [data, setData] = useState([]);
   const { id } = useParams();
+  const navigate = useNavigate();
 
   const [values, setValues] = useState({
     username: "",
@@ -12,7 +13,6 @@ const Update = () => {
     age: "",
   });
 
-  const navigate = useNavigate();
 
   async function fetchdata() {
     try {

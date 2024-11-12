@@ -1,24 +1,6 @@
 {
   "users": [
     {
-      "id": "d5ce",
-      "username": "dannyupdated",
-      "email": "dannyupdates@gmail.com",
-      "age": "32"
-    },
-    {
-      "id": "6f2e",
-      "username": "danny11111111111",
-      "email": "brock11111111@gmail.com",
-      "age": "441110000000000000000"
-    },
-    {
-      "id": "eef3",
-      "username": "user11",
-      "email": "user@gmail.com",
-      "age": "45"
-    },
-    {
       "id": "0d85",
       "username": "jerry",
       "email": "jerry@g.com",
@@ -31,10 +13,10 @@
       "age": "19"
     },
     {
-      "id": "2d65",
-      "username": "user123456",
-      "email": "user@123gmail.com",
-      "age": "44"
+      "id": "75a3",
+      "username": "shanky",
+      "email": "sneha@gmail.com",
+      "age": "3434"
     }
   ]
 }
